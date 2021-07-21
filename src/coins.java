@@ -4,7 +4,7 @@
  */
 public class coins {
     public static void main(String[] args) {
-        int coins[] = {1, 5, 10};
+        int coins[] = {1, 5, 56, 10};
         int amount = 10;
         System.out.println(coinsNumIdea1(coins, amount));
     }
